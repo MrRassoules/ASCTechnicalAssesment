@@ -28,3 +28,12 @@ body{
 a:hover{
 	text-decoration: none;
 }
+.contact-info{
+	font-size: 16px;
+	font-weight: 400;
+}
+.contact-info .detail{
+	font-size: 16px;
+	font-weight: 400;
+	font-family: tenso, sans-serif;
+}
